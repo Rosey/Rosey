@@ -6,5 +6,6 @@ I want to make this README super awesome but here's the basics for now:
 
 * My tiny personal site: [rosey.dev](https://rosey.dev)
 * I write blog posts on technical topics at: [dev.to/rose](https://dev.to/rose)
+* I have a dog blog at [fieldnotes.dog](https://fieldnotes.dog)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=github.rosey.visitor-badge)
